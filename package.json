@@ -4,11 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "nuxt generate",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint:prettier": "prettier --check .",
     "lint": "npm run lint:prettier",
+    "gcp-build":"",
     "lintfix": "prettier --write --list-different ."
   },
   "dependencies": {
