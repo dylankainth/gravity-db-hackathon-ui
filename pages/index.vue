@@ -27,7 +27,7 @@
       </div>
       <div class="col-md-6">
         <div class="h-100 p-5 bg-body-tertiary rounded-3 shadow border">
-          <h2>Results</h2>
+          <h2>Results </h2>
           
 
           <table class="table rounded">
